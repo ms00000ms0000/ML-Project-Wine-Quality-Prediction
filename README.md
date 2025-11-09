@@ -77,8 +77,8 @@ The **Random Forest Classifier** achieved a **93% accuracy**, proving to be an e
 ```
 📦 ML_Project_Wine_Quality_Prediction
 │
-├── wine_quality_prediction.ipynb # Complete Jupyter Notebook implementation
-├── winequality.csv # Dataset used for training and testing
+├── Wine_Quality_Prediction.ipynb # Complete Jupyter Notebook implementation
+├── winequality-red.csv # Dataset used for training and testing
 └── README.md # Project documentation
 
 ```
