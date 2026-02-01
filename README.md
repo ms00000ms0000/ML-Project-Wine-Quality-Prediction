@@ -1,5 +1,15 @@
 # 🍷 Wine Quality Prediction System — Machine Learning Model  
 
+## 📌 Internship Task – 1 (CODTECH)
+
+- COMPANY- CODTECH IT SOLUTIONS
+- NAME- MAYANK SRIVASTAVA
+- INTERN ID- CTIS4257
+- DOMAIN- DATA SCIENCE
+- DURATION - 12 WEEKS
+- MENTOR - NEELA SANTHOSH KUMAR
+
+
 ## 📘 Project Description  
 The **Wine Quality Prediction System** is a Machine Learning-based project that predicts the **quality of wine** based on its **physicochemical properties** such as **Fixed Acidity, Volatile Acidity, Citric Acid, Residual Sugar, Chlorides, Free Sulfur Dioxide, Total Sulfur Dioxide, Density, pH, Sulphates, and Alcohol**.  
 
