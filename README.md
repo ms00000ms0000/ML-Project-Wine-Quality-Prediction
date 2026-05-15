@@ -1,13 +1,6 @@
 # 🍷 Wine Quality Prediction System — Machine Learning Model  
 
-## 📌 Internship Task – 1 (CODTECH)
-
-- COMPANY- CODTECH IT SOLUTIONS
-- NAME- MAYANK SRIVASTAVA
-- INTERN ID- CTIS4257
-- DOMAIN- DATA SCIENCE
-- DURATION - 12 WEEKS
-- MENTOR - NEELA SANTHOSH KUMAR
+ 
 
 
 ## 📘 Project Description  
